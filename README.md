@@ -2,6 +2,9 @@
 👋 Hi! Welcome to my Github. I'm currently studying data science.
 
 #### 👀 I’m interested in ...
+* statistics & mathematics
+* data analysis
+* data visualization
 
 #### 🌱 I’m currently working with
 * R (advanced)
