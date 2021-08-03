@@ -1,5 +1,5 @@
 #### Hwayoung Yoon -- @HwayoungYoon
-👋 Hi! Welcome to my Github. I'm currently studying data science.
+👋 Hi! Welcome to my Github. I'm currently studying data science. I'm also a mentee of the Tidyverse Data Science Project at the 2021 Countryside Academy.
 
 #### 👀 I’m interested in ...
 * statistics & mathematics
