@@ -7,8 +7,9 @@
 * data visualization
 
 #### 🌱 I’m currently working with
-* R (advanced)
+* R (upper intermediate)
 * Python (intermediate)
+* SAS (novice)
 
 #### 💞️ I’m a member of
 * Women Who Code Seoul
