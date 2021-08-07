@@ -20,6 +20,8 @@
 * LinkedIn: https://www.linkedin.com/in/hwayoung-yoon-594712186
 * Email: ghkdud204@gmail.com
 * Instagram: https://instagram.com/hwayoung._.00
+* Facebook: https://www.facebook.com/hwayoung.yoon.00/
+
 
 <!---
 HwayoungYoon/HwayoungYoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
