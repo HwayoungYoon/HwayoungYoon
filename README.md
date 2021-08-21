@@ -1,6 +1,8 @@
 ### Hwayoung Yoon -- @HwayoungYoon
 👋 Hi! Welcome to my Github. I'm majoring in Information Statistics at Duksung Women's University. I'm currently studying data science. I'm also a mentee of the Tidyverse Data Science Project at the 2021 Countryside Academy.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HwayoungYoon&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 #### 👀 I’m interested in ...
 * statistics & mathematics
 * data analysis
@@ -26,10 +28,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hwayoung._.00)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hwayoung.yoon.00/)
 
-<!---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HwayoungYoon&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
---->
-
+***
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwayoungYoon&count_bg=%238E89FF&title_bg=%23383668&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!---
 badge icon: https://simpleicons.org/
