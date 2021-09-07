@@ -26,9 +26,9 @@
 --->
 
 #### 💞️ I’m a member of
-* Women Who Code Seoul
-* Datayanolja 2020
-* Datayanolja 2021
+* Women Who Code Seoul (2020 ~ )
+* Datayanolja (2020 ~ )
+* korea R conference (2021)
 
 ####  📫 How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hwayoung-yoon-594712186)
