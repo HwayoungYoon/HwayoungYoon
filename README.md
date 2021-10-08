@@ -1,12 +1,14 @@
 ### Hwayoung Yoon -- @HwayoungYoon
 👋 Hi! Welcome to my Github. I'm majoring in Information Statistics at Duksung Women's University. I'm currently studying data science. I'm also a mentee of the Tidyverse Data Science Project at the 2021 Opensource Countribution Academy.
 
+<!---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HwayoungYoon&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 #### 👀 I’m interested in ...
-* statistics & mathematics
 * data analysis
 * data visualization
+* statistics & mathematics
 
 #### 🌱 I’m currently working with
 ![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
